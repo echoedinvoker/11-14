@@ -14,7 +14,7 @@
 
 - HTML Semantic
 
-## **Meet Taipei 2022**
+## **Meet Taipei 2022 (11/17~11/19)**
 
 - EMILY ODOO 報價自動化技能/範例影片
 - EMILY QR code 觸發自動回信技能
