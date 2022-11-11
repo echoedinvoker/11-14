@@ -7,12 +7,12 @@
 
 ### _NodeJS (進度 50%)_
 
-    - EXPRESS
-    - MONGOOSE
+- EXPRESS
+- MONGOOSE
 
 ### _HTML & CSS (進度 20%)_
 
-    - HTML Semantic
+- HTML Semantic
 
 ## **Meet Taipei 2022**
 
